@@ -1,0 +1,6 @@
+.idea
+app/media
+app/static
+app/settings/secrets.py
+venv
+__pycache__
